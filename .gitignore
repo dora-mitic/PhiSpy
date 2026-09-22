@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Project images (keep folder structure via .gitkeep, ignore actual photos)
+images/paintings/*
+images/architecture/*
+images/nature/*
+images/control/*
+!images/paintings/.gitkeep
+!images/architecture/.gitkeep
+!images/nature/.gitkeep
+!images/control/.gitkeep
