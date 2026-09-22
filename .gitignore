@@ -26,6 +26,7 @@ images/paintings/*
 images/architecture/*
 images/nature/*
 images/control/*
+images/misc/*
 !images/paintings/.gitkeep
 !images/architecture/.gitkeep
 !images/nature/.gitkeep
